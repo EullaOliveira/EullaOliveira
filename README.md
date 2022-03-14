@@ -1,5 +1,5 @@
 - 👋 Oi, meu nome é Eulla Paula
 - 👀 Estou interessada em html, css e javascript
-- 🌱 atualmente estudo javascript
+- 🌱 atualmente estudo javascript. Já possuo conhecimento em visualg, scratch e portugol.
 - 💞️ 
 - 📫
