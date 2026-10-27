@@ -1,6 +1,6 @@
 ## 👋 Oii! Meu nome é Eulla Paula.
 - 👀 Estou interessada em C++.
-- 🌱 Atualmente estudo C++ e React. Já possuo conhecimento em HTML5, CSS3, JavaScript e Python.
+- 🌱 Atualmente estudo C++, React e Python. Já possuo conhecimento em HTML5, CSS3 e JavaScript.
 - 📫 Natal - Brasil
 
 
