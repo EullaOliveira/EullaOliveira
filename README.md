@@ -11,10 +11,6 @@
 ![CSS](https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-10%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EullaOliveira&show_icons=true&theme=tokyonight&hide_border=true)
-
 ## 📈 Linguagens mais utilizadas
 
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EullaOliveira&layout=compact&theme=tokyonight&hide_border=true)
